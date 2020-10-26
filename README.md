@@ -14,7 +14,7 @@
   -  ### This web application is an working model as a chatbot
   -  ### This application involves 4 files
   -  ### A javascript file where all the backend work is done,a json file where data is stored,a html file and a css file for the front end
-    ## Javascript:
+   ## Javascript:
    - ### It involves 5 functions
    - ### Greeting()This function is for the beginning of the application which surely greets the user based on time from the time_Of_The_Day() function
    - ### Then the menu is displayed for the user from database from json file
