@@ -11,9 +11,9 @@
   -   It also provide information about the movies.
 
 # Documentation:
-  -This web application is an working model as a chatbot
-  -This application involves 4 files
-  -a javascript file where all the backend work is done,a json file where data is stored,a html file and a css file for the front end
+    -This web application is an working model as a chatbot
+    -This application involves 4 files
+    -a javascript file where all the backend work is done,a json file where data is stored,a html file and a css file for the front end
   ## Javascript:
     -It involves 5 functions
     -Greeting()-This function is for the beginning of the application which surely greets the user based on time from the time_Of_The_Day() function
