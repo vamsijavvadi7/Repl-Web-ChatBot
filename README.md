@@ -8,7 +8,6 @@
   
 # Introduction about the bot:
   -  ### This bot will perform calculations.
-  -  ### This web application will perform calculations.
   -  ### It also provide information about the movies.
 # Documentation:
   -  ### This web application is an working model as a chatbot
