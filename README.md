@@ -22,9 +22,9 @@
     -The ouput is given to the user using ouput() function
     -This file also involves some exceptions that are handled so that it would pretty comfortable for the user to use the application
  ## Json:
- -This file contains the data of the menu that is to be displayed
+ -This file contains the data of the "menu" that is to be displayed
  ## HTML:
- -This file make sure the user is in connected to the backend
+ -This file make sure the user is in connection with the backend
  ## CSS:
  -This file provides neat and good styling to the html file
 
