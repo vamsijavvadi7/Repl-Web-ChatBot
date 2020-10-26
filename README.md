@@ -30,7 +30,8 @@
  
 
 
-
+# Mock up:
+![2020-10-26 (2)](https://user-images.githubusercontent.com/72811766/97184713-3af40980-17c5-11eb-9225-7be5fb8f4840.png)
 
 # Demo Vedio:
 https://youtu.be/ikHYL3pdzyQ
