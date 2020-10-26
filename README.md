@@ -18,7 +18,7 @@
     -It involves 5 functions
     -Greeting()-This function is for the beginning of the application which surely greets the user based on time from the time_Of_The_Day() function
     -Then the menu is displayed for the user from database from json file
-    -From the input from the html file javascript file either works on evaluator() to give output as evaluated output or may work on movie_Info() file to output the movie          information from an api(link is provided below),
+    -From the input from the html file javascript file either works on evaluator() to give output as evaluated output or may work on movie_Info() file to output the movie       information from an api(link is provided below),
     -The ouput is given to the user using ouput() function
     -This file also involves some exceptions that are handled so that it would pretty comfortable for the user to use the application
  ## Json:
